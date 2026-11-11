@@ -1,11 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="demo-en" tvg-name="How to activate (English)" tvg-logo="https://tivibro.com/demo/logo.png" group-title="How to activate",How to activate - English
 https://aouinex.github.io/tivibro-demo/videos/how-to-activate-en.mp4
-#EXTINF:-1 tvg-id="demo-fr" tvg-name="Comment activer (Français)" tvg-logo="https://tivibro.com/demo/logo.png" group-title="How to activate",Comment activer - Français
-https://tivibro.com/demo/how-to-activate-fr.mp4
-#EXTINF:-1 tvg-id="demo-es" tvg-name="Cómo activar (Español)" tvg-logo="https://tivibro.com/demo/logo.png" group-title="How to activate",Cómo activar - Español
-https://tivibro.com/demo/how-to-activate-es.mp4
-#EXTINF:-1 tvg-id="demo-ar" tvg-name="طريقة التفعيل (العربية)" tvg-logo="https://tivibro.com/demo/logo.png" group-title="How to activate",طريقة التفعيل - العربية
-https://tivibro.com/demo/how-to-activate-ar.mp4
-#EXTINF:-1 tvg-id="demo-pt" tvg-name="Como ativar (Português)" tvg-logo="https://tivibro.com/demo/logo.png" group-title="How to activate",Como ativar - Português
-https://tivibro.com/demo/how-to-activate-pt.mp4
