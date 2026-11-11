@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="demo-en" tvg-name="How to activate (English)" tvg-logo="https://tivibro.com/demo/logo.png" group-title="How to activate",How to activate - English
-https://www.youtube.com/watch?v=ZmU3l-iLXwI
+https://www.youtube.com/watch?v=ZmU3l-iLXwI.mp4
 #EXTINF:-1 tvg-id="demo-fr" tvg-name="Comment activer (Français)" tvg-logo="https://tivibro.com/demo/logo.png" group-title="How to activate",Comment activer - Français
 https://tivibro.com/demo/how-to-activate-fr.mp4
 #EXTINF:-1 tvg-id="demo-es" tvg-name="Cómo activar (Español)" tvg-logo="https://tivibro.com/demo/logo.png" group-title="How to activate",Cómo activar - Español
