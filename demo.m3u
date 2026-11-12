@@ -1,33 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Live Demo",How to use TiviBro Player?
 https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-en.mp4
+#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Live Demo",Wie verwendet man den TiviBro Player?
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-de.mp4
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Live Demo",Comment utiliser TiviBro Player ?
-https://aouinex.github.io/tivibro-demo/videos/demo-fr.mp4
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-fr.mp4
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Live Demo",¿Cómo usar TiviBro Player?
-https://aouinex.github.io/tivibro-demo/videos/demo-es.mp4
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-es.mp4
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Live Demo",كيف تستخدم TiviBro Player؟
-https://aouinex.github.io/tivibro-demo/videos/demo-ar.mp4
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-pr.mp4
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Live Demo",Como usar o TiviBro Player?
-https://aouinex.github.io/tivibro-demo/videos/demo-pt.mp4
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-ar.mp4
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Movies Demo",How to use TiviBro Player?
-https://aouinex.github.io/tivibro-demo/videos/how-to-activate-en.mp4
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-en.mp4
+#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Movies Demo",Wie verwendet man den TiviBro Player?
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-de.mp4
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Movies Demo",Comment utiliser TiviBro Player ?
-https://aouinex.github.io/tivibro-demo/videos/demo-fr.mp4
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-fr.mp4
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Movies Demo",¿Cómo usar TiviBro Player?
-https://aouinex.github.io/tivibro-demo/videos/demo-es.mp4
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-es.mp4
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Movies Demo",كيف تستخدم TiviBro Player؟
-https://aouinex.github.io/tivibro-demo/videos/demo-ar.mp4
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-pr.mp4
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Movies Demo",Como usar o TiviBro Player?
-https://aouinex.github.io/tivibro-demo/videos/demo-pt.mp4
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-ar.mp4
 #EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="1" season-name="Demo 1" episode="1",Episode 1
-https://aouinex.github.io/tivibro-demo/videos/how-to-activate-en.mp4
-#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="1" season-name="Demo 1" episode="2",Episode 2
-https://aouinex.github.io/tivibro-demo/videos/demo-fr.mp4
-#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="1" season-name="Demo 1" episode="3",Episode 3
-https://aouinex.github.io/tivibro-demo/videos/demo-es.mp4
-#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="2" season-name="Demo 2" episode="1",Episode 1
-https://aouinex.github.io/tivibro-demo/videos/demo-ar.mp4
-#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="2" season-name="Demo 2" episode="2",Episode 2
-https://aouinex.github.io/tivibro-demo/videos/demo-pt.mp4
-#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="2" season-name="Demo 2" episode="3",Episode 3
-https://aouinex.github.io/tivibro-demo/videos/how-to-activate-en.mp4
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-en.mp4
+#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="1" season-name="Demo 1" episode="2",Episode 1
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-de.mp4
+#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="1" season-name="Demo 1" episode="3",Episode 2
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-fr.mp4
+#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="1" season-name="Demo 2" episode="1",Episode 3
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-es.mp4
+#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="2" season-name="Demo 2" episode="2",Episode 1
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-pr.mp4
+#EXTINF:-1 tvg-logo="https://aouinex.github.io/tivibro-demo/logo.png" group-title="Series Demo" series-name="How to use TiviBro Player?" season="2" season-name="Demo 2" episode="3",Episode 2
+https://aouinex.github.io/tivibro-demo/videos/tivibro-tutorial-ar.mp4
